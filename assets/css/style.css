@@ -1,0 +1,23 @@
+body {
+	background-image: url(../images/starwars-background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	float: left;
+}
+
+#header {
+	color: white;
+	font-size: 40px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.char-btn {
+	height: 100px;
+	width: 120px;
+}
+
+#fight-section {
+	color: white;
+	font-size: 30px;
+	font-family: "Courier New", Courier, monospace;
+}
